@@ -2,7 +2,7 @@
 /**
  * Write a description of class Methods_Array here.
  *
- * @author (your name)
+ * @author (Will McLean)
  * @version (a version number or a date)
  */
 import java.util.Scanner;
